@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shoot for the moon, even if you miss, you'll land among the stars."
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,10 @@ redirect_from:
   <img src="https://qwangan.github.io/images/portrait.jpg" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
+> *"Shoot for the moon, even if you miss, you'll land among the stars."*
+
 ## Contacts
-* Email: zwang033 {AT} connect {DOT} hkust-gz {dot} edu {dot} cn 
+* Email: zwang033@connect.hkust-gz.edu.cn 
 * Tel: 
 * Office: 
 * Address: 
