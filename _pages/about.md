@@ -17,7 +17,9 @@ redirect_from:
 
 <div style="text-align: center; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 25px 0; margin: 35px 0;">
   <p style="font-style: italic; color: #777; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
+    <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">“"</span>
     "Shoot for the moon, even if you miss, you'll land among the stars."
+    <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">"”</span>
   </p>
 </div>
 
@@ -37,12 +39,12 @@ redirect_from:
 
 ## Contacts
 * Email: zwang033@connect.hkust-gz.edu.cn 
-* Tel: 
-* Office: 
-* Address: 
+* Office: T3-502-R26-H13, T3
+* Address: BNBU, Zhuhai, Guangdong, China
 
 ## Academic Appointment
-* Research Assistant - Hong Kong University of Science and Technology, 2025 - present
+* Teaching Assistant - Beijing Normal-Hong Kong Baptist University, 2026
+* Research Assistant - Hong Kong University of Science and Technology, 2025
 
 ## Education
 * M.Phil. in Financial Technology - Hong Kong University of Science and Technology (Supervisor: [Yue Kuen Kwok]([https://www.math.hkust.edu.hk/~maykwok/](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KWOK-YUEKUEN/maykwok))), 2025
