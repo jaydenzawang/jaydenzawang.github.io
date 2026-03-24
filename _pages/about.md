@@ -18,7 +18,9 @@ redirect_from:
 </div>
 
 <div style="background-color: #f4f6f9; padding: 15px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
-  "Shoot for the moon, even if you miss, you'll land among the stars."
+  <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
+    "Shoot for the moon, even if you miss, you'll land among the stars."
+  </p>
 </div>
 
 ## Contacts
