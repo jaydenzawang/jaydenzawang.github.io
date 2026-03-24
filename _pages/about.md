@@ -13,6 +13,14 @@ redirect_from:
 
 > *"Shoot for the moon, even if you miss, you'll land among the stars."*
 
+<p align="center" style="font-style: italic; color: #666; font-size: 18px;">
+  "Shoot for the moon, even if you miss, you'll land among the stars."
+</p>
+
+<div style="background-color: #f4f6f9; padding: 15px 20px; border-left: 5px solid #5073b8; font-style: italic; margin-bottom: 20px;">
+  "Shoot for the moon, even if you miss, you'll land among the stars."
+</div>
+
 ## Contacts
 * Email: zwang033@connect.hkust-gz.edu.cn 
 * Tel: 
