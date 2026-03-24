@@ -37,7 +37,9 @@ redirect_from:
 * B.Sc. in Financial Mathematics - Hong Kong Baptist University, 2023
 
 ## Research Interests
-* Actuarial science; Quantitative risk management; Computational finance
+Actuarial science; Quantitative risk management; Computational finance
+
+## Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto"></script>
 
