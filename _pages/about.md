@@ -25,8 +25,8 @@ redirect_from:
 
 ## Contacts
 * Email: zwang033[at]connect.hkust-gz.edu.cn 
-* Office: T3-502-R26-H13, T3
-* Address: BNBU, Zhuhai, Guangdong, China
+* Office: T3-502-R26-H13
+* Address: No. 2000 Jintong Road, Tangjiawan, Zhuhai, Guangdong Province, China
 
 ## Academic Appointment
 * Teaching Assistant - Beijing Normal-Hong Kong Baptist University, 2026
