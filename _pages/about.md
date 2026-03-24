@@ -11,27 +11,11 @@ redirect_from:
   <img src="https://qwangan.github.io/images/portrait.jpg" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
-<p style="text-align: center; font-style: italic; color: #666; font-size: 18px; line-height: 1.8; margin: 30px 0; font-family: Georgia, serif;">
-  "Shoot for the moon, even if you miss, you'll land among the stars."
-</p>
-
 <div style="text-align: center; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 25px 0; margin: 35px 0;">
-  <p style="font-style: italic; color: #777; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
-    <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">“"</span>
+  <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
     "Shoot for the moon, even if you miss, you'll land among the stars."
-    <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">"”</span>
   </p>
 </div>
-
-<p style="text-align: center; font-style: italic; color: #666; font-size: 18px; line-height: 1.8; margin: 30px 0;">
-  <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">“</span>
-  Shoot for the moon, even if you miss, you'll land among the stars.
-  <span style="font-size: 24px; color: #bbb; line-height: 0; position: relative; top: 6px;">”</span>
-</p>
-
-<p align="center" style="font-style: italic; color: #666; font-size: 18px;">
-  "Shoot for the moon, even if you miss, you'll land among the stars."
-</p>
 
 <div style="background-color: #f4f6f9; padding: 15px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
   "Shoot for the moon, even if you miss, you'll land among the stars."
