@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jayden Wang" # "Your Name / Site Title"  
 title_separator          : "-"
 name                     : &name "Jayden Zian Wang"
@@ -24,18 +24,18 @@ repository               : "jaydenzawang/jaydenzawang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jayden Zian Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "FinTech MPhil"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zwang033@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5sFEXKQAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
