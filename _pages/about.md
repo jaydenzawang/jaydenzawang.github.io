@@ -39,3 +39,5 @@ redirect_from:
 ## Research Interests
 * Actuarial science; Quantitative risk management; Computational finance
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto"></script>
+
