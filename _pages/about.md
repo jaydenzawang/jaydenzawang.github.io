@@ -17,7 +17,7 @@ redirect_from:
   "Shoot for the moon, even if you miss, you'll land among the stars."
 </p>
 
-<div style="background-color: #f4f6f9; padding: 15px 20px; border-left: 5px solid #5073b8; font-style: italic; margin-bottom: 20px;">
+<div style="background-color: #f4f6f9; padding: 15px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
   "Shoot for the moon, even if you miss, you'll land among the stars."
 </div>
 
