@@ -33,7 +33,7 @@ redirect_from:
 * Research Assistant - Hong Kong University of Science and Technology, 2025
 
 ## Education
-* M.Phil. in Financial Technology - Hong Kong University of Science and Technology (Supervisor: <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KWOK-YUEKUEN/maykwok" target="_blank">Yue Kuen Kwok</a>), 2025
+* M.Phil. in Financial Technology - Hong Kong University of Science and Technology (Supervisor: <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KWOK-YUEKUEN/maykwok" target="_blank">Yue Kuen Kwok</a> and Co-superviso: <a href="https://sunyinggilly.github.io/" target="_blank">Ying Sun</a>), 2025
 * B.Sc. in Financial Mathematics - Hong Kong Baptist University, 2023
 
 ## Research Interests
