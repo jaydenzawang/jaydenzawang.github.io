@@ -1,17 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: "My Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<div style="text-align: center; margin: 60px 0;">
-  <a href="/files/JZWang_CV.pdf"
-     class="btn btn--large btn--primary"
-     target="_blank"
-     rel="noopener noreferrer">
-     📥 Here is my CV
-  </a>
-</div>
+<a href="/files/JZWang_CV.pdf"
+   class="btn btn--large btn--primary"
+   target="_blank"
+   rel="noopener noreferrer">
+   📥 Here is my CV
+</a>
+
