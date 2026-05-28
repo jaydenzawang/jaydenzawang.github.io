@@ -42,6 +42,6 @@ Actuarial science; Quantitative risk management; Computational finance
 ## Visitors
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto"></script> -->
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=GRVZRkTXPGVe8hZMabjgo9B_QrGCbgGNWpQzPuFe284&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=GRVZRkTXPGVe8hZMabjgo9B_QrGCbgGNWpQzPuFe284&co=85d2f2'></script>
 
 
