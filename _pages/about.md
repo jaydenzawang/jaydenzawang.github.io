@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="background-color: #f4f6f9; padding: 16px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
   <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
-    "Shoot for the moon, even if you miss, you'll land among the stars."
+    "Simplicity is the ultimate sophistication."
   </p>
 </div>
 
@@ -41,7 +41,7 @@ Actuarial science; Quantitative risk management; Computational finance
 
 ## Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto"></script>
-<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=GRVZRkTXPGVe8hZMabjgo9B_QrGCbgGNWpQzPuFe284&co=85d2f2'></script> -->
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto"></script> -->
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=GRVZRkTXPGVe8hZMabjgo9B_QrGCbgGNWpQzPuFe284&co=85d2f2'></script>
 
 
