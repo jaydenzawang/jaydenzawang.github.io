@@ -23,9 +23,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  # # 用这个
-  # - title: "CV"
-  #   url: /cv/
+  # 用这个
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
