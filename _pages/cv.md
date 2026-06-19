@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[📥 Download CV](https://jaydenzawang.github.io/files/JZWang_CV.pdf)
+<h2>My Curriculum Vitae</h2>
+
+<a href="/files/JZWang_CV.pdf"
+   class="btn btn--large btn--primary"
+   target="_blank"
+   rel="noopener noreferrer">
+   📥 Here is my CV
+</a>
 
 <iframe 
   src="https://jaydenzawang.github.io/files/JZWang_CV.pdf" 
