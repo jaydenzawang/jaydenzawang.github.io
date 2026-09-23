@@ -17,11 +17,11 @@ redirect_from:
   </p>
 </div> -->
 
-<div style="background-color: #f4f6f9; padding: 16px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
+<!-- <div style="background-color: #f4f6f9; padding: 16px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
   <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
     "What does the industry concern?"
   </p>
-</div>
+</div> -->
 
 ## Contacts
 * Email: zwang033[at]connect.hkust-gz.edu.cn 
