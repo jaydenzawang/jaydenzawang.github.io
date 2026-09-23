@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="background-color: #f4f6f9; padding: 16px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
   <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
-    "Simplicity is the ultimate sophistication."
+    "What does the industry concern?"
   </p>
 </div>
 
