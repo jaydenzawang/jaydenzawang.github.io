@@ -24,7 +24,7 @@ redirect_from:
 </div> -->
 
 ## Contacts
-* Email: zwang033[at]connect.hkust-gz.edu.cn 
+* Email: zwang033@connect.hkust-gz.edu.cn / jaydenzawang@bnbu.edu.cn
 * Office: T3-502-R26-H13
 * Address: No. 2000 Jintong Road, Tangjiawan, Zhuhai, Guangdong Province, China
 
