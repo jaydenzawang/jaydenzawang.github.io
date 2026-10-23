@@ -17,11 +17,21 @@ redirect_from:
   </p>
 </div> -->
 
-<!-- <div style="background-color: #f4f6f9; padding: 16px 20px; font-style: italic; margin-bottom: 20px; text-align: center;">
-  <p style="font-style: italic; color: #666; font-size: 18px; margin: 0; line-height: 1.6; font-family: Georgia, serif;">
-    "What does the industry concern?"
+## Seeking PhD Opportunities
+
+<div style="background-color: #f4f6f9; padding: 16px 20px; margin-bottom: 20px; color: #555; font-size: 18px; line-height: 1.6; font-family: Georgia, serif; text-align: left;">
+  <p style="margin: 0 0 8px;">
+    Dear Professors,
   </p>
-</div> -->
+  <p style="margin: 0; text-indent: 2em;">
+    If you see a potential fit between my research interests and your work,
+    I would be delighted to hear from you, even if we have not yet been in touch.
+  </p>
+  <p style="margin: 16px 0 0;">
+    Best,<br>
+    Jayden
+  </p>
+</div>
 
 ## Contacts
 * Email: zwang033@connect.hkust-gz.edu.cn / jaydenzawang@bnbu.edu.cn
