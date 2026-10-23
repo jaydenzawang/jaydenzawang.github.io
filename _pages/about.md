@@ -24,7 +24,7 @@ redirect_from:
     Dear Professors,
   </p>
   <p style="margin: 0; text-indent: 2em;">
-    If you think I could be a promising fit for your research group,
+    If you think I could be a promising fit for your research group, please feel free to let me know.
     I would be delighted to hear from you, even if we have not yet been in touch.
   </p>
   <p style="margin: 16px 0 0;">
